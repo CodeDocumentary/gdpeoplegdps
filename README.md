@@ -9,22 +9,22 @@ Demonlist website
 6. Sakupen Heaven (ID: 32) (insane2K)
 7. Run Boy (ID: 15) (EvanGD)
 ### EDITED Demon Levels
-Electropolis Version 1: Hacked by Superstar, moved off.
-Sakupen Circles TOP 2 added
-Electropolis re-verified by Splash GG!
-[LATEST CHANGE] Minus World pushed Run Boy to #7
+1. Electropolis Version 1: Hacked by Superstar, moved off.
+2. Sakupen Circles TOP 2 added
+3. Electropolis re-verified by Splash GG!
+4. [LATEST CHANGE] Minus World pushed Run Boy to #7
 ### WR List
-7% Femboy Circles - insane2K (140 Att)
-9% Sakupen Circles - Splash (47 Att) (Former WR: 7% insane2K)
-4% Minus World - insane2K (1 Att)
-9% whitehouse - EvanGD (?? Att)
-6% Electropolis - insane2K (3 Att)
-23% Sakupen Heaven - EvanGD (?? At)
-100% Run Boy - GhostyVibes (?? At)
+1. 7% Femboy Circles - insane2K (140 Att)
+2. 9% Sakupen Circles - Splash (47 Att) (Former WR: 7% insane2K)
+3. 4% Minus World - insane2K (1 Att)
+4. 9% whitehouse - EvanGD (?? Att)
+5. 6% Electropolis - insane2K (3 Att)
+6. 23% Sakupen Heaven - EvanGD (?? At)
+7. 100% Run Boy - GhostyVibes (?? At)
 ### Banned Demonlist Players
-SuperstarGD
-Ghosty? (Investigate)
-LoB? (Investigate)
+1. SuperstarGD
+2. Ghosty? (Investigate)
+3. LoB? (Investigate)
 ### Impossible Demon List
 1. Femboy Circles (ID: 38)
 2. Sakupen Circles (ID: 40)
